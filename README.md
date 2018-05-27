@@ -5,4 +5,4 @@
     npm install
     npm run start
 ## 效果截图
-    ![效果图](./screenShoot/1.png)
+![效果图](./screenShoot/1.png)
